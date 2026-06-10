@@ -1,6 +1,13 @@
-streamlit
-pandas
-numpy==2.0.2
+# streamlit
+# pandas
+# numpy==2.0.2
+# joblib==1.4.2
+# tensorflow-cpu==2.18.0
+# scikit-learn
+
+streamlit==1.39.0
+pandas==2.2.3
+numpy==1.26.4
 joblib==1.4.2
 tensorflow-cpu==2.18.0
-scikit-learn
+scikit-learn==1.5.2
